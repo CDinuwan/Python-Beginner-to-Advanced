@@ -5,3 +5,5 @@ elif age >= 13:
     print("Teenager")
 else:
     print("Too old")
+
+# pass for empty blocks
